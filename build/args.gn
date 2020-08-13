@@ -32,6 +32,7 @@ use_system_harfbuzz = false
 use_system_libjpeg = false
 rtc_enable_protobuf = false
 rtc_use_h264 = true
+rtc_use_pipewire = true
 is_cfi = false
 target_os = "linux"
 current_os = "linux"
